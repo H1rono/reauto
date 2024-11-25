@@ -1,0 +1,3 @@
+# reauto
+
+regular expression + automaton
